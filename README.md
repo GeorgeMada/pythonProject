@@ -1,0 +1,2 @@
+# pythonProject
+teme si exercitii 
